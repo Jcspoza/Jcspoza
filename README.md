@@ -10,3 +10,5 @@ I´m interested in:
 Currently I am teaching scratch to persons wit intellectual disabilities
 
 Also I speach to teens about social networks like tiktok in the sense to protect from risk of bad use and wellbeing
+
+You can reach me by mail : jcspoza@gmail.com
