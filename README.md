@@ -1,6 +1,6 @@
 ### Hello, bellow a short bio
 
-*Name : Jose Carlos Santmaria Poza*
+*Name : Jose Carlos Santamaria Poza*
 
 I´m interested in:
 - Microprocesors Hardware: Arduino, esp32, raspberry pico W, mico:bit,... programing langujes : arduino IDE , micropython or makeCode
